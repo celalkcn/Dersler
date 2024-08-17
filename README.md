@@ -1,2 +1,0 @@
-# Dersler
- çalışmalarım
