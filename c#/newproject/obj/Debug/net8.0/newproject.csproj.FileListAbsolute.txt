@@ -1,0 +1,15 @@
+C:\Users\ciesi\Documents\GitHub\Dersler\c#\newproject\bin\Debug\net8.0\newproject.exe
+C:\Users\ciesi\Documents\GitHub\Dersler\c#\newproject\bin\Debug\net8.0\newproject.deps.json
+C:\Users\ciesi\Documents\GitHub\Dersler\c#\newproject\bin\Debug\net8.0\newproject.runtimeconfig.json
+C:\Users\ciesi\Documents\GitHub\Dersler\c#\newproject\bin\Debug\net8.0\newproject.dll
+C:\Users\ciesi\Documents\GitHub\Dersler\c#\newproject\bin\Debug\net8.0\newproject.pdb
+C:\Users\ciesi\Documents\GitHub\Dersler\c#\newproject\obj\Debug\net8.0\newproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ciesi\Documents\GitHub\Dersler\c#\newproject\obj\Debug\net8.0\newproject.AssemblyInfoInputs.cache
+C:\Users\ciesi\Documents\GitHub\Dersler\c#\newproject\obj\Debug\net8.0\newproject.AssemblyInfo.cs
+C:\Users\ciesi\Documents\GitHub\Dersler\c#\newproject\obj\Debug\net8.0\newproject.csproj.CoreCompileInputs.cache
+C:\Users\ciesi\Documents\GitHub\Dersler\c#\newproject\obj\Debug\net8.0\newproject.sourcelink.json
+C:\Users\ciesi\Documents\GitHub\Dersler\c#\newproject\obj\Debug\net8.0\newproject.dll
+C:\Users\ciesi\Documents\GitHub\Dersler\c#\newproject\obj\Debug\net8.0\refint\newproject.dll
+C:\Users\ciesi\Documents\GitHub\Dersler\c#\newproject\obj\Debug\net8.0\newproject.pdb
+C:\Users\ciesi\Documents\GitHub\Dersler\c#\newproject\obj\Debug\net8.0\newproject.genruntimeconfig.cache
+C:\Users\ciesi\Documents\GitHub\Dersler\c#\newproject\obj\Debug\net8.0\ref\newproject.dll
