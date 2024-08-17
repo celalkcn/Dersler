@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\c#\\newproject\\newproject.csproj": {}
+    "c:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\c#\\newproject\\newproject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\c#\\newproject\\newproject.csproj": {
+    "c:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\c#\\newproject\\newproject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\c#\\newproject\\newproject.csproj",
+        "projectUniqueName": "c:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\c#\\newproject\\newproject.csproj",
         "projectName": "newproject",
-        "projectPath": "C:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\c#\\newproject\\newproject.csproj",
+        "projectPath": "c:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\c#\\newproject\\newproject.csproj",
         "packagesPath": "C:\\Users\\ciesi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\c#\\newproject\\obj\\",
+        "outputPath": "c:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\c#\\newproject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ciesi\\AppData\\Roaming\\NuGet\\NuGet.Config",
