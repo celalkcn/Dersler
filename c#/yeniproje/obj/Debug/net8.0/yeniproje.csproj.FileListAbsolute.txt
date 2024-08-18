@@ -1,0 +1,15 @@
+c:\Users\ciesi\Documents\GitHub\Dersler\c#\yeniproje\bin\Debug\net8.0\yeniproje.exe
+c:\Users\ciesi\Documents\GitHub\Dersler\c#\yeniproje\bin\Debug\net8.0\yeniproje.deps.json
+c:\Users\ciesi\Documents\GitHub\Dersler\c#\yeniproje\bin\Debug\net8.0\yeniproje.runtimeconfig.json
+c:\Users\ciesi\Documents\GitHub\Dersler\c#\yeniproje\bin\Debug\net8.0\yeniproje.dll
+c:\Users\ciesi\Documents\GitHub\Dersler\c#\yeniproje\bin\Debug\net8.0\yeniproje.pdb
+c:\Users\ciesi\Documents\GitHub\Dersler\c#\yeniproje\obj\Debug\net8.0\yeniproje.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ciesi\Documents\GitHub\Dersler\c#\yeniproje\obj\Debug\net8.0\yeniproje.AssemblyInfoInputs.cache
+c:\Users\ciesi\Documents\GitHub\Dersler\c#\yeniproje\obj\Debug\net8.0\yeniproje.AssemblyInfo.cs
+c:\Users\ciesi\Documents\GitHub\Dersler\c#\yeniproje\obj\Debug\net8.0\yeniproje.csproj.CoreCompileInputs.cache
+c:\Users\ciesi\Documents\GitHub\Dersler\c#\yeniproje\obj\Debug\net8.0\yeniproje.sourcelink.json
+c:\Users\ciesi\Documents\GitHub\Dersler\c#\yeniproje\obj\Debug\net8.0\yeniproje.dll
+c:\Users\ciesi\Documents\GitHub\Dersler\c#\yeniproje\obj\Debug\net8.0\refint\yeniproje.dll
+c:\Users\ciesi\Documents\GitHub\Dersler\c#\yeniproje\obj\Debug\net8.0\yeniproje.pdb
+c:\Users\ciesi\Documents\GitHub\Dersler\c#\yeniproje\obj\Debug\net8.0\yeniproje.genruntimeconfig.cache
+c:\Users\ciesi\Documents\GitHub\Dersler\c#\yeniproje\obj\Debug\net8.0\ref\yeniproje.dll

@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "newproject/1.0.0": {
+      "yeniproje/1.0.0": {
         "runtime": {
-          "newproject.dll": {}
+          "yeniproje.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "newproject/1.0.0": {
+    "yeniproje/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
