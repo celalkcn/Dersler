@@ -47,7 +47,53 @@ class Program
         // int yas= 25;
         // System.Console.WriteLine("Benim adım  "+adSoyad+" ve yaşım "+yas);
 
-        // 4. ödev
+        // #region 
+        // // Bir ürünün fiyatı girildiğinde kdv dahil fiyatını belirtin
+
+        //  console.whrite("ürün fiyatını giriniz")
+        // decimal productPrice = decimal.Parse(Console.ReadLine());
+        // double vatRate = 0.18;
+        // double vat = (double)productPrice * vatRate;
+        // decimal totalProductPrice = productPrice + (decimal)vat;
+        // string resultMessage = $"Kdv Dahil fiyat:{totalProductPrice}";
+        // #endregion
+        // Console.Write("Ürün fiyatını giriniz: ");
+        // decimal productPrice = decimal.Parse(Console.ReadLine());
+
+        // double vatRate = 0.18;
+        // double vat = (double)productPrice * vatRate;
+        // decimal totalProductPrice = productPrice + (decimal)vat;
+
+        //             string resultMessage=$@"Ürün Fiyatı     : {productPrice}
+        // KDV             : {vat}
+        // KDV Dahil Fiyat : {totalProductPrice}
+        //             ";
+        // string resultMessage = $"Ürün Fiyatı     : {productPrice}\nKDV             : {vat}\nKDV Dahil Fiyat : {totalProductPrice}";
+        // Console.WriteLine(resultMessage);
+
+        // #region Sıcaklık Dönüştürme
+        // //Kullanıcıdan Celsius cinsinden alınan sıcaklık değerini, Fahrenheit cinsine çevirip ekrana her ikisini de alt alta yazdıran kodu hazırlıyoruz.
+        // Console.Write("sıcaklık kaç derece?:");
+        // double celcius = double.Parse(Console.ReadLine());
+        // double fahre = celcius * 1.8 + 32;
+        // string resultMessage = $"Celcius: {(int)celcius}\n fahre: {(int)fahre}";
+        // //Console.Clear();
+        // System.Console.WriteLine("sonuç");
+        // System.Console.WriteLine("----");
+        // System.Console.WriteLine(resultMessage);
+
+        // #endregion
+        #region  kg yi grama çevir
+        Console.Write("kam gram");
+        double kilogram = double.Parse(Console.ReadLine());
+        double gram = kilogram * 1000;
+        string resultMessage = $" kg: {(double)kilogram}\n gram {(int)gram}";
+        // string resultMessage = "kilogramın gram hali  " + (double)gram;
+        System.Console.WriteLine(resultMessage);
+
+
+        #endregion
+
 
     }
 }
