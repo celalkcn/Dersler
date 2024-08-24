@@ -48,6 +48,6 @@ class Program
         // System.Console.WriteLine("Benim adım  "+adSoyad+" ve yaşım "+yas);
 
         // 4. ödev
-        
+
     }
 }
