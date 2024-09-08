@@ -1,0 +1,15 @@
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\NumberMethods\Soru09\bin\Debug\net8.0\Soru09.exe
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\NumberMethods\Soru09\bin\Debug\net8.0\Soru09.deps.json
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\NumberMethods\Soru09\bin\Debug\net8.0\Soru09.runtimeconfig.json
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\NumberMethods\Soru09\bin\Debug\net8.0\Soru09.dll
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\NumberMethods\Soru09\bin\Debug\net8.0\Soru09.pdb
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\NumberMethods\Soru09\obj\Debug\net8.0\Soru09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\NumberMethods\Soru09\obj\Debug\net8.0\Soru09.AssemblyInfoInputs.cache
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\NumberMethods\Soru09\obj\Debug\net8.0\Soru09.AssemblyInfo.cs
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\NumberMethods\Soru09\obj\Debug\net8.0\Soru09.csproj.CoreCompileInputs.cache
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\NumberMethods\Soru09\obj\Debug\net8.0\Soru09.sourcelink.json
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\NumberMethods\Soru09\obj\Debug\net8.0\Soru09.dll
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\NumberMethods\Soru09\obj\Debug\net8.0\refint\Soru09.dll
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\NumberMethods\Soru09\obj\Debug\net8.0\Soru09.pdb
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\NumberMethods\Soru09\obj\Debug\net8.0\Soru09.genruntimeconfig.cache
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\NumberMethods\Soru09\obj\Debug\net8.0\ref\Soru09.dll

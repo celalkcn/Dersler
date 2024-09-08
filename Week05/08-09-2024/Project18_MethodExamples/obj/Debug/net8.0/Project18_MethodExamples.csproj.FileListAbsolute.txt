@@ -1,0 +1,15 @@
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\08-09-2024\Project18_MethodExamples\bin\Debug\net8.0\Project18_MethodExamples.exe
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\08-09-2024\Project18_MethodExamples\bin\Debug\net8.0\Project18_MethodExamples.deps.json
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\08-09-2024\Project18_MethodExamples\bin\Debug\net8.0\Project18_MethodExamples.runtimeconfig.json
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\08-09-2024\Project18_MethodExamples\bin\Debug\net8.0\Project18_MethodExamples.dll
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\08-09-2024\Project18_MethodExamples\bin\Debug\net8.0\Project18_MethodExamples.pdb
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\08-09-2024\Project18_MethodExamples\obj\Debug\net8.0\Project18_MethodExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\08-09-2024\Project18_MethodExamples\obj\Debug\net8.0\Project18_MethodExamples.AssemblyInfoInputs.cache
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\08-09-2024\Project18_MethodExamples\obj\Debug\net8.0\Project18_MethodExamples.AssemblyInfo.cs
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\08-09-2024\Project18_MethodExamples\obj\Debug\net8.0\Project18_MethodExamples.csproj.CoreCompileInputs.cache
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\08-09-2024\Project18_MethodExamples\obj\Debug\net8.0\Project18_MethodExamples.sourcelink.json
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\08-09-2024\Project18_MethodExamples\obj\Debug\net8.0\Project18_MethodExamples.dll
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\08-09-2024\Project18_MethodExamples\obj\Debug\net8.0\refint\Project18_MethodExamples.dll
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\08-09-2024\Project18_MethodExamples\obj\Debug\net8.0\Project18_MethodExamples.pdb
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\08-09-2024\Project18_MethodExamples\obj\Debug\net8.0\Project18_MethodExamples.genruntimeconfig.cache
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\08-09-2024\Project18_MethodExamples\obj\Debug\net8.0\ref\Project18_MethodExamples.dll

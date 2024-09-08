@@ -1,0 +1,15 @@
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week04\01-09-2024\Project13_GuessNumberGame\bin\Debug\net8.0\Project13_GuessNumberGame.exe
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week04\01-09-2024\Project13_GuessNumberGame\bin\Debug\net8.0\Project13_GuessNumberGame.deps.json
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week04\01-09-2024\Project13_GuessNumberGame\bin\Debug\net8.0\Project13_GuessNumberGame.runtimeconfig.json
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week04\01-09-2024\Project13_GuessNumberGame\bin\Debug\net8.0\Project13_GuessNumberGame.dll
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week04\01-09-2024\Project13_GuessNumberGame\bin\Debug\net8.0\Project13_GuessNumberGame.pdb
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week04\01-09-2024\Project13_GuessNumberGame\obj\Debug\net8.0\Project13_GuessNumberGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week04\01-09-2024\Project13_GuessNumberGame\obj\Debug\net8.0\Project13_GuessNumberGame.AssemblyInfoInputs.cache
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week04\01-09-2024\Project13_GuessNumberGame\obj\Debug\net8.0\Project13_GuessNumberGame.AssemblyInfo.cs
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week04\01-09-2024\Project13_GuessNumberGame\obj\Debug\net8.0\Project13_GuessNumberGame.csproj.CoreCompileInputs.cache
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week04\01-09-2024\Project13_GuessNumberGame\obj\Debug\net8.0\Project13_GuessNumberGame.sourcelink.json
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week04\01-09-2024\Project13_GuessNumberGame\obj\Debug\net8.0\Project13_GuessNumberGame.dll
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week04\01-09-2024\Project13_GuessNumberGame\obj\Debug\net8.0\refint\Project13_GuessNumberGame.dll
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week04\01-09-2024\Project13_GuessNumberGame\obj\Debug\net8.0\Project13_GuessNumberGame.pdb
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week04\01-09-2024\Project13_GuessNumberGame\obj\Debug\net8.0\Project13_GuessNumberGame.genruntimeconfig.cache
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week04\01-09-2024\Project13_GuessNumberGame\obj\Debug\net8.0\ref\Project13_GuessNumberGame.dll

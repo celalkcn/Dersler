@@ -1,0 +1,15 @@
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\08-09-2024\Project16_Methods\bin\Debug\net8.0\Project16_Methods.exe
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\08-09-2024\Project16_Methods\bin\Debug\net8.0\Project16_Methods.deps.json
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\08-09-2024\Project16_Methods\bin\Debug\net8.0\Project16_Methods.runtimeconfig.json
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\08-09-2024\Project16_Methods\bin\Debug\net8.0\Project16_Methods.dll
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\08-09-2024\Project16_Methods\bin\Debug\net8.0\Project16_Methods.pdb
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\08-09-2024\Project16_Methods\obj\Debug\net8.0\Project16_Methods.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\08-09-2024\Project16_Methods\obj\Debug\net8.0\Project16_Methods.AssemblyInfoInputs.cache
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\08-09-2024\Project16_Methods\obj\Debug\net8.0\Project16_Methods.AssemblyInfo.cs
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\08-09-2024\Project16_Methods\obj\Debug\net8.0\Project16_Methods.csproj.CoreCompileInputs.cache
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\08-09-2024\Project16_Methods\obj\Debug\net8.0\Project16_Methods.sourcelink.json
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\08-09-2024\Project16_Methods\obj\Debug\net8.0\Project16_Methods.dll
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\08-09-2024\Project16_Methods\obj\Debug\net8.0\refint\Project16_Methods.dll
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\08-09-2024\Project16_Methods\obj\Debug\net8.0\Project16_Methods.pdb
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\08-09-2024\Project16_Methods\obj\Debug\net8.0\Project16_Methods.genruntimeconfig.cache
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\08-09-2024\Project16_Methods\obj\Debug\net8.0\ref\Project16_Methods.dll

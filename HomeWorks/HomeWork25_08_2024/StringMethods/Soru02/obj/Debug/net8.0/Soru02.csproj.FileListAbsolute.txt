@@ -1,0 +1,15 @@
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\HomeWork01\Soru02\bin\Debug\net8.0\Soru02.exe
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\HomeWork01\Soru02\bin\Debug\net8.0\Soru02.deps.json
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\HomeWork01\Soru02\bin\Debug\net8.0\Soru02.runtimeconfig.json
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\HomeWork01\Soru02\bin\Debug\net8.0\Soru02.dll
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\HomeWork01\Soru02\bin\Debug\net8.0\Soru02.pdb
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\HomeWork01\Soru02\obj\Debug\net8.0\Soru02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\HomeWork01\Soru02\obj\Debug\net8.0\Soru02.AssemblyInfoInputs.cache
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\HomeWork01\Soru02\obj\Debug\net8.0\Soru02.AssemblyInfo.cs
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\HomeWork01\Soru02\obj\Debug\net8.0\Soru02.csproj.CoreCompileInputs.cache
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\HomeWork01\Soru02\obj\Debug\net8.0\Soru02.sourcelink.json
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\HomeWork01\Soru02\obj\Debug\net8.0\Soru02.dll
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\HomeWork01\Soru02\obj\Debug\net8.0\refint\Soru02.dll
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\HomeWork01\Soru02\obj\Debug\net8.0\Soru02.pdb
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\HomeWork01\Soru02\obj\Debug\net8.0\Soru02.genruntimeconfig.cache
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\HomeWork01\Soru02\obj\Debug\net8.0\ref\Soru02.dll

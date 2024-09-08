@@ -1,0 +1,15 @@
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project07_NumberMethods\bin\Debug\net8.0\Project07_NumberMethods.exe
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project07_NumberMethods\bin\Debug\net8.0\Project07_NumberMethods.deps.json
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project07_NumberMethods\bin\Debug\net8.0\Project07_NumberMethods.runtimeconfig.json
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project07_NumberMethods\bin\Debug\net8.0\Project07_NumberMethods.dll
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project07_NumberMethods\bin\Debug\net8.0\Project07_NumberMethods.pdb
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project07_NumberMethods\obj\Debug\net8.0\Project07_NumberMethods.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project07_NumberMethods\obj\Debug\net8.0\Project07_NumberMethods.AssemblyInfoInputs.cache
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project07_NumberMethods\obj\Debug\net8.0\Project07_NumberMethods.AssemblyInfo.cs
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project07_NumberMethods\obj\Debug\net8.0\Project07_NumberMethods.csproj.CoreCompileInputs.cache
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project07_NumberMethods\obj\Debug\net8.0\Project07_NumberMethods.sourcelink.json
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project07_NumberMethods\obj\Debug\net8.0\Project07_NumberMethods.dll
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project07_NumberMethods\obj\Debug\net8.0\refint\Project07_NumberMethods.dll
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project07_NumberMethods\obj\Debug\net8.0\Project07_NumberMethods.pdb
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project07_NumberMethods\obj\Debug\net8.0\Project07_NumberMethods.genruntimeconfig.cache
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project07_NumberMethods\obj\Debug\net8.0\ref\Project07_NumberMethods.dll

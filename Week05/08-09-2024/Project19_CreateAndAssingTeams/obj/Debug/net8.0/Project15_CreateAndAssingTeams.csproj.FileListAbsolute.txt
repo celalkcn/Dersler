@@ -1,0 +1,15 @@
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\Project15_CreateAndAssingTeams\bin\Debug\net8.0\Project15_CreateAndAssingTeams.exe
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\Project15_CreateAndAssingTeams\bin\Debug\net8.0\Project15_CreateAndAssingTeams.deps.json
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\Project15_CreateAndAssingTeams\bin\Debug\net8.0\Project15_CreateAndAssingTeams.runtimeconfig.json
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\Project15_CreateAndAssingTeams\bin\Debug\net8.0\Project15_CreateAndAssingTeams.dll
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\Project15_CreateAndAssingTeams\bin\Debug\net8.0\Project15_CreateAndAssingTeams.pdb
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\Project15_CreateAndAssingTeams\obj\Debug\net8.0\Project15_CreateAndAssingTeams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\Project15_CreateAndAssingTeams\obj\Debug\net8.0\Project15_CreateAndAssingTeams.AssemblyInfoInputs.cache
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\Project15_CreateAndAssingTeams\obj\Debug\net8.0\Project15_CreateAndAssingTeams.AssemblyInfo.cs
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\Project15_CreateAndAssingTeams\obj\Debug\net8.0\Project15_CreateAndAssingTeams.csproj.CoreCompileInputs.cache
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\Project15_CreateAndAssingTeams\obj\Debug\net8.0\Project15_CreateAndAssingTeams.sourcelink.json
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\Project15_CreateAndAssingTeams\obj\Debug\net8.0\Project15_CreateAndAssingTeams.dll
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\Project15_CreateAndAssingTeams\obj\Debug\net8.0\refint\Project15_CreateAndAssingTeams.dll
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\Project15_CreateAndAssingTeams\obj\Debug\net8.0\Project15_CreateAndAssingTeams.pdb
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\Project15_CreateAndAssingTeams\obj\Debug\net8.0\Project15_CreateAndAssingTeams.genruntimeconfig.cache
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week05\Project15_CreateAndAssingTeams\obj\Debug\net8.0\ref\Project15_CreateAndAssingTeams.dll

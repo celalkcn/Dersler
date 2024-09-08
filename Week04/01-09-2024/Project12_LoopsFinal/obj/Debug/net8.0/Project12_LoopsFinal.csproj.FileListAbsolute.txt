@@ -1,0 +1,15 @@
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week04\01-09-2024\Project12_LoopsFinal\bin\Debug\net8.0\Project12_LoopsFinal.exe
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week04\01-09-2024\Project12_LoopsFinal\bin\Debug\net8.0\Project12_LoopsFinal.deps.json
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week04\01-09-2024\Project12_LoopsFinal\bin\Debug\net8.0\Project12_LoopsFinal.runtimeconfig.json
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week04\01-09-2024\Project12_LoopsFinal\bin\Debug\net8.0\Project12_LoopsFinal.dll
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week04\01-09-2024\Project12_LoopsFinal\bin\Debug\net8.0\Project12_LoopsFinal.pdb
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week04\01-09-2024\Project12_LoopsFinal\obj\Debug\net8.0\Project12_LoopsFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week04\01-09-2024\Project12_LoopsFinal\obj\Debug\net8.0\Project12_LoopsFinal.AssemblyInfoInputs.cache
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week04\01-09-2024\Project12_LoopsFinal\obj\Debug\net8.0\Project12_LoopsFinal.AssemblyInfo.cs
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week04\01-09-2024\Project12_LoopsFinal\obj\Debug\net8.0\Project12_LoopsFinal.csproj.CoreCompileInputs.cache
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week04\01-09-2024\Project12_LoopsFinal\obj\Debug\net8.0\Project12_LoopsFinal.sourcelink.json
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week04\01-09-2024\Project12_LoopsFinal\obj\Debug\net8.0\Project12_LoopsFinal.dll
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week04\01-09-2024\Project12_LoopsFinal\obj\Debug\net8.0\refint\Project12_LoopsFinal.dll
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week04\01-09-2024\Project12_LoopsFinal\obj\Debug\net8.0\Project12_LoopsFinal.pdb
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week04\01-09-2024\Project12_LoopsFinal\obj\Debug\net8.0\Project12_LoopsFinal.genruntimeconfig.cache
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week04\01-09-2024\Project12_LoopsFinal\obj\Debug\net8.0\ref\Project12_LoopsFinal.dll

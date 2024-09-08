@@ -1,0 +1,15 @@
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project09_Conditions\bin\Debug\net8.0\Project09_Conditions.exe
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project09_Conditions\bin\Debug\net8.0\Project09_Conditions.deps.json
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project09_Conditions\bin\Debug\net8.0\Project09_Conditions.runtimeconfig.json
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project09_Conditions\bin\Debug\net8.0\Project09_Conditions.dll
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project09_Conditions\bin\Debug\net8.0\Project09_Conditions.pdb
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project09_Conditions\obj\Debug\net8.0\Project09_Conditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project09_Conditions\obj\Debug\net8.0\Project09_Conditions.AssemblyInfoInputs.cache
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project09_Conditions\obj\Debug\net8.0\Project09_Conditions.AssemblyInfo.cs
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project09_Conditions\obj\Debug\net8.0\Project09_Conditions.csproj.CoreCompileInputs.cache
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project09_Conditions\obj\Debug\net8.0\Project09_Conditions.sourcelink.json
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project09_Conditions\obj\Debug\net8.0\Project09_Conditions.dll
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project09_Conditions\obj\Debug\net8.0\refint\Project09_Conditions.dll
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project09_Conditions\obj\Debug\net8.0\Project09_Conditions.pdb
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project09_Conditions\obj\Debug\net8.0\Project09_Conditions.genruntimeconfig.cache
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project09_Conditions\obj\Debug\net8.0\ref\Project09_Conditions.dll

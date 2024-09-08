@@ -1,0 +1,15 @@
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project06_StringMethods\bin\Debug\net8.0\Project06_StringMethods.exe
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project06_StringMethods\bin\Debug\net8.0\Project06_StringMethods.deps.json
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project06_StringMethods\bin\Debug\net8.0\Project06_StringMethods.runtimeconfig.json
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project06_StringMethods\bin\Debug\net8.0\Project06_StringMethods.dll
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project06_StringMethods\bin\Debug\net8.0\Project06_StringMethods.pdb
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project06_StringMethods\obj\Debug\net8.0\Project06_StringMethods.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project06_StringMethods\obj\Debug\net8.0\Project06_StringMethods.AssemblyInfoInputs.cache
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project06_StringMethods\obj\Debug\net8.0\Project06_StringMethods.AssemblyInfo.cs
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project06_StringMethods\obj\Debug\net8.0\Project06_StringMethods.csproj.CoreCompileInputs.cache
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project06_StringMethods\obj\Debug\net8.0\Project06_StringMethods.sourcelink.json
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project06_StringMethods\obj\Debug\net8.0\Project06_StringMethods.dll
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project06_StringMethods\obj\Debug\net8.0\refint\Project06_StringMethods.dll
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project06_StringMethods\obj\Debug\net8.0\Project06_StringMethods.pdb
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project06_StringMethods\obj\Debug\net8.0\Project06_StringMethods.genruntimeconfig.cache
+c:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Week03\Project06_StringMethods\obj\Debug\net8.0\ref\Project06_StringMethods.dll

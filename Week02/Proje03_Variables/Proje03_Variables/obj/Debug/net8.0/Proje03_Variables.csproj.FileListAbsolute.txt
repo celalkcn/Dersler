@@ -1,0 +1,15 @@
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Proje03_Variables\Proje03_Variables\bin\Debug\net8.0\Proje03_Variables.exe
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Proje03_Variables\Proje03_Variables\bin\Debug\net8.0\Proje03_Variables.deps.json
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Proje03_Variables\Proje03_Variables\bin\Debug\net8.0\Proje03_Variables.runtimeconfig.json
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Proje03_Variables\Proje03_Variables\bin\Debug\net8.0\Proje03_Variables.dll
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Proje03_Variables\Proje03_Variables\bin\Debug\net8.0\Proje03_Variables.pdb
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Proje03_Variables\Proje03_Variables\obj\Debug\net8.0\Proje03_Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Proje03_Variables\Proje03_Variables\obj\Debug\net8.0\Proje03_Variables.AssemblyInfoInputs.cache
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Proje03_Variables\Proje03_Variables\obj\Debug\net8.0\Proje03_Variables.AssemblyInfo.cs
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Proje03_Variables\Proje03_Variables\obj\Debug\net8.0\Proje03_Variables.csproj.CoreCompileInputs.cache
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Proje03_Variables\Proje03_Variables\obj\Debug\net8.0\Proje03_Variables.sourcelink.json
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Proje03_Variables\Proje03_Variables\obj\Debug\net8.0\Proje03_Variables.dll
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Proje03_Variables\Proje03_Variables\obj\Debug\net8.0\refint\Proje03_Variables.dll
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Proje03_Variables\Proje03_Variables\obj\Debug\net8.0\Proje03_Variables.pdb
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Proje03_Variables\Proje03_Variables\obj\Debug\net8.0\Proje03_Variables.genruntimeconfig.cache
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Proje03_Variables\Proje03_Variables\obj\Debug\net8.0\ref\Proje03_Variables.dll

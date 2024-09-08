@@ -1,0 +1,15 @@
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru01\bin\Debug\net8.0\Soru01.exe
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru01\bin\Debug\net8.0\Soru01.deps.json
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru01\bin\Debug\net8.0\Soru01.runtimeconfig.json
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru01\bin\Debug\net8.0\Soru01.dll
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru01\bin\Debug\net8.0\Soru01.pdb
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru01\obj\Debug\net8.0\Soru01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru01\obj\Debug\net8.0\Soru01.AssemblyInfoInputs.cache
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru01\obj\Debug\net8.0\Soru01.AssemblyInfo.cs
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru01\obj\Debug\net8.0\Soru01.csproj.CoreCompileInputs.cache
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru01\obj\Debug\net8.0\Soru01.sourcelink.json
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru01\obj\Debug\net8.0\Soru01.dll
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru01\obj\Debug\net8.0\refint\Soru01.dll
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru01\obj\Debug\net8.0\Soru01.pdb
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru01\obj\Debug\net8.0\Soru01.genruntimeconfig.cache
+C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru01\obj\Debug\net8.0\ref\Soru01.dll

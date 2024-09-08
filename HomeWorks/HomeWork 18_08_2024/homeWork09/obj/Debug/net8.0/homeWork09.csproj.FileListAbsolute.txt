@@ -1,0 +1,14 @@
+C:\Users\Kerem\Desktop\HomeWork 18_08_2024\homeWork09\bin\Debug\net8.0\homeWork09.exe
+C:\Users\Kerem\Desktop\HomeWork 18_08_2024\homeWork09\bin\Debug\net8.0\homeWork09.deps.json
+C:\Users\Kerem\Desktop\HomeWork 18_08_2024\homeWork09\bin\Debug\net8.0\homeWork09.runtimeconfig.json
+C:\Users\Kerem\Desktop\HomeWork 18_08_2024\homeWork09\bin\Debug\net8.0\homeWork09.dll
+C:\Users\Kerem\Desktop\HomeWork 18_08_2024\homeWork09\bin\Debug\net8.0\homeWork09.pdb
+C:\Users\Kerem\Desktop\HomeWork 18_08_2024\homeWork09\obj\Debug\net8.0\homeWork09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kerem\Desktop\HomeWork 18_08_2024\homeWork09\obj\Debug\net8.0\homeWork09.AssemblyInfoInputs.cache
+C:\Users\Kerem\Desktop\HomeWork 18_08_2024\homeWork09\obj\Debug\net8.0\homeWork09.AssemblyInfo.cs
+C:\Users\Kerem\Desktop\HomeWork 18_08_2024\homeWork09\obj\Debug\net8.0\homeWork09.csproj.CoreCompileInputs.cache
+C:\Users\Kerem\Desktop\HomeWork 18_08_2024\homeWork09\obj\Debug\net8.0\homeWork09.dll
+C:\Users\Kerem\Desktop\HomeWork 18_08_2024\homeWork09\obj\Debug\net8.0\refint\homeWork09.dll
+C:\Users\Kerem\Desktop\HomeWork 18_08_2024\homeWork09\obj\Debug\net8.0\homeWork09.pdb
+C:\Users\Kerem\Desktop\HomeWork 18_08_2024\homeWork09\obj\Debug\net8.0\homeWork09.genruntimeconfig.cache
+C:\Users\Kerem\Desktop\HomeWork 18_08_2024\homeWork09\obj\Debug\net8.0\ref\homeWork09.dll
