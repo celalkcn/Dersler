@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\c#\\yeniproje\\yeniproje.csproj": {}
+    "C:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\c#\\yeniproje\\yeniproje.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\c#\\yeniproje\\yeniproje.csproj": {
+    "C:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\c#\\yeniproje\\yeniproje.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\c#\\yeniproje\\yeniproje.csproj",
+        "projectUniqueName": "C:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\c#\\yeniproje\\yeniproje.csproj",
         "projectName": "yeniproje",
-        "projectPath": "c:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\c#\\yeniproje\\yeniproje.csproj",
+        "projectPath": "C:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\c#\\yeniproje\\yeniproje.csproj",
         "packagesPath": "C:\\Users\\ciesi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\c#\\yeniproje\\obj\\",
+        "outputPath": "C:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\c#\\yeniproje\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ciesi\\AppData\\Roaming\\NuGet\\NuGet.Config",
