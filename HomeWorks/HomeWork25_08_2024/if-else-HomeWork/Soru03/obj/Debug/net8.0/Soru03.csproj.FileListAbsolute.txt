@@ -13,3 +13,18 @@ C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_20
 C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru03\obj\Debug\net8.0\Soru03.pdb
 C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru03\obj\Debug\net8.0\Soru03.genruntimeconfig.cache
 C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru03\obj\Debug\net8.0\ref\Soru03.dll
+c:\Users\ciesi\Documents\GitHub\Dersler\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru03\bin\Debug\net8.0\Soru03.exe
+c:\Users\ciesi\Documents\GitHub\Dersler\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru03\bin\Debug\net8.0\Soru03.deps.json
+c:\Users\ciesi\Documents\GitHub\Dersler\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru03\bin\Debug\net8.0\Soru03.runtimeconfig.json
+c:\Users\ciesi\Documents\GitHub\Dersler\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru03\bin\Debug\net8.0\Soru03.dll
+c:\Users\ciesi\Documents\GitHub\Dersler\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru03\bin\Debug\net8.0\Soru03.pdb
+c:\Users\ciesi\Documents\GitHub\Dersler\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru03\obj\Debug\net8.0\Soru03.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ciesi\Documents\GitHub\Dersler\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru03\obj\Debug\net8.0\Soru03.AssemblyInfoInputs.cache
+c:\Users\ciesi\Documents\GitHub\Dersler\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru03\obj\Debug\net8.0\Soru03.AssemblyInfo.cs
+c:\Users\ciesi\Documents\GitHub\Dersler\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru03\obj\Debug\net8.0\Soru03.csproj.CoreCompileInputs.cache
+c:\Users\ciesi\Documents\GitHub\Dersler\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru03\obj\Debug\net8.0\Soru03.sourcelink.json
+c:\Users\ciesi\Documents\GitHub\Dersler\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru03\obj\Debug\net8.0\Soru03.dll
+c:\Users\ciesi\Documents\GitHub\Dersler\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru03\obj\Debug\net8.0\refint\Soru03.dll
+c:\Users\ciesi\Documents\GitHub\Dersler\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru03\obj\Debug\net8.0\Soru03.pdb
+c:\Users\ciesi\Documents\GitHub\Dersler\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru03\obj\Debug\net8.0\Soru03.genruntimeconfig.cache
+c:\Users\ciesi\Documents\GitHub\Dersler\HomeWorks\HomeWork25_08_2024\if-else-HomeWork\Soru03\obj\Debug\net8.0\ref\Soru03.dll

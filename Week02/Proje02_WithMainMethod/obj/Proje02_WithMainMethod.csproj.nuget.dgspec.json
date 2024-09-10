@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kerem\\Desktop\\BackendBootcamp\\C# Programlama\\Proje02_WithMainMethod\\Proje02_WithMainMethod.csproj": {}
+    "c:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\Week02\\Proje02_WithMainMethod\\Proje02_WithMainMethod.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kerem\\Desktop\\BackendBootcamp\\C# Programlama\\Proje02_WithMainMethod\\Proje02_WithMainMethod.csproj": {
+    "c:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\Week02\\Proje02_WithMainMethod\\Proje02_WithMainMethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kerem\\Desktop\\BackendBootcamp\\C# Programlama\\Proje02_WithMainMethod\\Proje02_WithMainMethod.csproj",
+        "projectUniqueName": "c:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\Week02\\Proje02_WithMainMethod\\Proje02_WithMainMethod.csproj",
         "projectName": "Proje02_WithMainMethod",
-        "projectPath": "C:\\Users\\Kerem\\Desktop\\BackendBootcamp\\C# Programlama\\Proje02_WithMainMethod\\Proje02_WithMainMethod.csproj",
-        "packagesPath": "C:\\Users\\Kerem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kerem\\Desktop\\BackendBootcamp\\C# Programlama\\Proje02_WithMainMethod\\obj\\",
+        "projectPath": "c:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\Week02\\Proje02_WithMainMethod\\Proje02_WithMainMethod.csproj",
+        "packagesPath": "C:\\Users\\ciesi\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\Week02\\Proje02_WithMainMethod\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kerem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ciesi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

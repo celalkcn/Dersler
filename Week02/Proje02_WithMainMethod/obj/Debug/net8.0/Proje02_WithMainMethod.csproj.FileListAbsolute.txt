@@ -13,3 +13,18 @@ C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Proje02_WithMainMethod\obj
 C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Proje02_WithMainMethod\obj\Debug\net8.0\Proje02_WithMainMethod.pdb
 C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Proje02_WithMainMethod\obj\Debug\net8.0\Proje02_WithMainMethod.genruntimeconfig.cache
 C:\Users\Kerem\Desktop\BackendBootcamp\C# Programlama\Proje02_WithMainMethod\obj\Debug\net8.0\ref\Proje02_WithMainMethod.dll
+c:\Users\ciesi\Documents\GitHub\Dersler\Week02\Proje02_WithMainMethod\bin\Debug\net8.0\Proje02_WithMainMethod.exe
+c:\Users\ciesi\Documents\GitHub\Dersler\Week02\Proje02_WithMainMethod\bin\Debug\net8.0\Proje02_WithMainMethod.deps.json
+c:\Users\ciesi\Documents\GitHub\Dersler\Week02\Proje02_WithMainMethod\bin\Debug\net8.0\Proje02_WithMainMethod.runtimeconfig.json
+c:\Users\ciesi\Documents\GitHub\Dersler\Week02\Proje02_WithMainMethod\bin\Debug\net8.0\Proje02_WithMainMethod.dll
+c:\Users\ciesi\Documents\GitHub\Dersler\Week02\Proje02_WithMainMethod\bin\Debug\net8.0\Proje02_WithMainMethod.pdb
+c:\Users\ciesi\Documents\GitHub\Dersler\Week02\Proje02_WithMainMethod\obj\Debug\net8.0\Proje02_WithMainMethod.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ciesi\Documents\GitHub\Dersler\Week02\Proje02_WithMainMethod\obj\Debug\net8.0\Proje02_WithMainMethod.AssemblyInfoInputs.cache
+c:\Users\ciesi\Documents\GitHub\Dersler\Week02\Proje02_WithMainMethod\obj\Debug\net8.0\Proje02_WithMainMethod.AssemblyInfo.cs
+c:\Users\ciesi\Documents\GitHub\Dersler\Week02\Proje02_WithMainMethod\obj\Debug\net8.0\Proje02_WithMainMethod.csproj.CoreCompileInputs.cache
+c:\Users\ciesi\Documents\GitHub\Dersler\Week02\Proje02_WithMainMethod\obj\Debug\net8.0\Proje02_WithMainMethod.sourcelink.json
+c:\Users\ciesi\Documents\GitHub\Dersler\Week02\Proje02_WithMainMethod\obj\Debug\net8.0\Proje02_WithMainMethod.dll
+c:\Users\ciesi\Documents\GitHub\Dersler\Week02\Proje02_WithMainMethod\obj\Debug\net8.0\refint\Proje02_WithMainMethod.dll
+c:\Users\ciesi\Documents\GitHub\Dersler\Week02\Proje02_WithMainMethod\obj\Debug\net8.0\Proje02_WithMainMethod.pdb
+c:\Users\ciesi\Documents\GitHub\Dersler\Week02\Proje02_WithMainMethod\obj\Debug\net8.0\Proje02_WithMainMethod.genruntimeconfig.cache
+c:\Users\ciesi\Documents\GitHub\Dersler\Week02\Proje02_WithMainMethod\obj\Debug\net8.0\ref\Proje02_WithMainMethod.dll
