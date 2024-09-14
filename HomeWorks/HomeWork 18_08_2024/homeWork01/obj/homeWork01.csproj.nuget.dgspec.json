@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\HomeWorks\\HomeWork 18_08_2024\\homeWork01\\homeWork01.csproj": {}
+    "c:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\HomeWorks\\HomeWork 18_08_2024\\homeWork01\\homeWork01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\HomeWorks\\HomeWork 18_08_2024\\homeWork01\\homeWork01.csproj": {
+    "c:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\HomeWorks\\HomeWork 18_08_2024\\homeWork01\\homeWork01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\HomeWorks\\HomeWork 18_08_2024\\homeWork01\\homeWork01.csproj",
+        "projectUniqueName": "c:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\HomeWorks\\HomeWork 18_08_2024\\homeWork01\\homeWork01.csproj",
         "projectName": "homeWork01",
-        "projectPath": "C:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\HomeWorks\\HomeWork 18_08_2024\\homeWork01\\homeWork01.csproj",
+        "projectPath": "c:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\HomeWorks\\HomeWork 18_08_2024\\homeWork01\\homeWork01.csproj",
         "packagesPath": "C:\\Users\\ciesi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\HomeWorks\\HomeWork 18_08_2024\\homeWork01\\obj\\",
+        "outputPath": "c:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\HomeWorks\\HomeWork 18_08_2024\\homeWork01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ciesi\\AppData\\Roaming\\NuGet\\NuGet.Config",

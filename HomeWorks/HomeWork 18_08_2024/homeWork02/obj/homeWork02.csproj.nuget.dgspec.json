@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kerem\\Desktop\\HomeWork 18_08_2024\\homeWork02\\homeWork02.csproj": {}
+    "C:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\HomeWorks\\HomeWork 18_08_2024\\homeWork02\\homeWork02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kerem\\Desktop\\HomeWork 18_08_2024\\homeWork02\\homeWork02.csproj": {
+    "C:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\HomeWorks\\HomeWork 18_08_2024\\homeWork02\\homeWork02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kerem\\Desktop\\HomeWork 18_08_2024\\homeWork02\\homeWork02.csproj",
+        "projectUniqueName": "C:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\HomeWorks\\HomeWork 18_08_2024\\homeWork02\\homeWork02.csproj",
         "projectName": "homeWork02",
-        "projectPath": "C:\\Users\\Kerem\\Desktop\\HomeWork 18_08_2024\\homeWork02\\homeWork02.csproj",
-        "packagesPath": "C:\\Users\\Kerem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kerem\\Desktop\\HomeWork 18_08_2024\\homeWork02\\obj\\",
+        "projectPath": "C:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\HomeWorks\\HomeWork 18_08_2024\\homeWork02\\homeWork02.csproj",
+        "packagesPath": "C:\\Users\\ciesi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\HomeWorks\\HomeWork 18_08_2024\\homeWork02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kerem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ciesi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
