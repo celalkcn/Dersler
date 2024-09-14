@@ -1,0 +1,29 @@
+C:\Users\Kerem\Desktop\HomeWork 18_08_2024\homeWork02\bin\Debug\net8.0\homeWork02.exe
+C:\Users\Kerem\Desktop\HomeWork 18_08_2024\homeWork02\bin\Debug\net8.0\homeWork02.deps.json
+C:\Users\Kerem\Desktop\HomeWork 18_08_2024\homeWork02\bin\Debug\net8.0\homeWork02.runtimeconfig.json
+C:\Users\Kerem\Desktop\HomeWork 18_08_2024\homeWork02\bin\Debug\net8.0\homeWork02.dll
+C:\Users\Kerem\Desktop\HomeWork 18_08_2024\homeWork02\bin\Debug\net8.0\homeWork02.pdb
+C:\Users\Kerem\Desktop\HomeWork 18_08_2024\homeWork02\obj\Debug\net8.0\homeWork02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kerem\Desktop\HomeWork 18_08_2024\homeWork02\obj\Debug\net8.0\homeWork02.AssemblyInfoInputs.cache
+C:\Users\Kerem\Desktop\HomeWork 18_08_2024\homeWork02\obj\Debug\net8.0\homeWork02.AssemblyInfo.cs
+C:\Users\Kerem\Desktop\HomeWork 18_08_2024\homeWork02\obj\Debug\net8.0\homeWork02.csproj.CoreCompileInputs.cache
+C:\Users\Kerem\Desktop\HomeWork 18_08_2024\homeWork02\obj\Debug\net8.0\homeWork02.dll
+C:\Users\Kerem\Desktop\HomeWork 18_08_2024\homeWork02\obj\Debug\net8.0\refint\homeWork02.dll
+C:\Users\Kerem\Desktop\HomeWork 18_08_2024\homeWork02\obj\Debug\net8.0\homeWork02.pdb
+C:\Users\Kerem\Desktop\HomeWork 18_08_2024\homeWork02\obj\Debug\net8.0\homeWork02.genruntimeconfig.cache
+C:\Users\Kerem\Desktop\HomeWork 18_08_2024\homeWork02\obj\Debug\net8.0\ref\homeWork02.dll
+c:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\bin\Debug\net8.0\homeWork02.exe
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\bin\Debug\net8.0\homeWork02.deps.json
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\bin\Debug\net8.0\homeWork02.runtimeconfig.json
+c:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\bin\Debug\net8.0\homeWork02.dll
+c:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\bin\Debug\net8.0\homeWork02.pdb
+c:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\obj\Debug\net8.0\homeWork02.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\obj\Debug\net8.0\homeWork02.AssemblyInfoInputs.cache
+c:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\obj\Debug\net8.0\homeWork02.AssemblyInfo.cs
+c:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\obj\Debug\net8.0\homeWork02.csproj.CoreCompileInputs.cache
+c:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\obj\Debug\net8.0\homeWork02.sourcelink.json
+c:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\obj\Debug\net8.0\homeWork02.dll
+c:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\obj\Debug\net8.0\refint\homeWork02.dll
+c:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\obj\Debug\net8.0\homeWork02.pdb
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\obj\Debug\net8.0\homeWork02.genruntimeconfig.cache
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\obj\Debug\net8.0\ref\homeWork02.dll

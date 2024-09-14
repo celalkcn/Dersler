@@ -1,0 +1,15 @@
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Inheritance\bin\Debug\net8.0\Inheritance.exe
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Inheritance\bin\Debug\net8.0\Inheritance.deps.json
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Inheritance\bin\Debug\net8.0\Inheritance.runtimeconfig.json
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Inheritance\bin\Debug\net8.0\Inheritance.dll
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Inheritance\bin\Debug\net8.0\Inheritance.pdb
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Inheritance\obj\Debug\net8.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfo.cs
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Inheritance\obj\Debug\net8.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Inheritance\obj\Debug\net8.0\Inheritance.sourcelink.json
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Inheritance\obj\Debug\net8.0\Inheritance.dll
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Inheritance\obj\Debug\net8.0\refint\Inheritance.dll
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Inheritance\obj\Debug\net8.0\Inheritance.pdb
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Inheritance\obj\Debug\net8.0\Inheritance.genruntimeconfig.cache
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Inheritance\obj\Debug\net8.0\ref\Inheritance.dll

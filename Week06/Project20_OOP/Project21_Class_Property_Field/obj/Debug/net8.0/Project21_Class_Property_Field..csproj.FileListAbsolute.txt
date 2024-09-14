@@ -1,0 +1,15 @@
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Project21_Class_Property_Field\bin\Debug\net8.0\Project21_Class_Property_Field..exe
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Project21_Class_Property_Field\bin\Debug\net8.0\Project21_Class_Property_Field..deps.json
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Project21_Class_Property_Field\bin\Debug\net8.0\Project21_Class_Property_Field..runtimeconfig.json
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Project21_Class_Property_Field\bin\Debug\net8.0\Project21_Class_Property_Field..dll
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Project21_Class_Property_Field\bin\Debug\net8.0\Project21_Class_Property_Field..pdb
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Project21_Class_Property_Field\obj\Debug\net8.0\Project21_Class_Property_Field..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Project21_Class_Property_Field\obj\Debug\net8.0\Project21_Class_Property_Field..AssemblyInfoInputs.cache
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Project21_Class_Property_Field\obj\Debug\net8.0\Project21_Class_Property_Field..AssemblyInfo.cs
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Project21_Class_Property_Field\obj\Debug\net8.0\Project21_Class_Property_Field..csproj.CoreCompileInputs.cache
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Project21_Class_Property_Field\obj\Debug\net8.0\Project21_Class_Property_Field..sourcelink.json
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Project21_Class_Property_Field\obj\Debug\net8.0\Project21_Class_Property_Field..dll
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Project21_Class_Property_Field\obj\Debug\net8.0\refint\Project21_Class_Property_Field..dll
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Project21_Class_Property_Field\obj\Debug\net8.0\Project21_Class_Property_Field..pdb
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Project21_Class_Property_Field\obj\Debug\net8.0\Project21_Class_Property_Field..genruntimeconfig.cache
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Project21_Class_Property_Field\obj\Debug\net8.0\ref\Project21_Class_Property_Field..dll

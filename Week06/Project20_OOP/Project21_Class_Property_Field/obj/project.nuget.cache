@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MWMmtACg+pQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\Week06\\Project20_OOP\\Project21_Class_Property_Field\\Project21_Class_Property_Field..csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ciesi\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.8\\microsoft.dotnet.ilcompiler.8.0.8.nupkg.sha512",
+    "C:\\Users\\ciesi\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.8\\microsoft.net.illink.tasks.8.0.8.nupkg.sha512",
+    "C:\\Users\\ciesi\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.8\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
