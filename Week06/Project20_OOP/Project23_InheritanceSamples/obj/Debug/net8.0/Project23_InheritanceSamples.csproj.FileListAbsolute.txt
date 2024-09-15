@@ -1,0 +1,15 @@
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Project23_InheritanceSamples\bin\Debug\net8.0\Project23_InheritanceSamples.exe
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Project23_InheritanceSamples\bin\Debug\net8.0\Project23_InheritanceSamples.deps.json
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Project23_InheritanceSamples\bin\Debug\net8.0\Project23_InheritanceSamples.runtimeconfig.json
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Project23_InheritanceSamples\bin\Debug\net8.0\Project23_InheritanceSamples.dll
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Project23_InheritanceSamples\bin\Debug\net8.0\Project23_InheritanceSamples.pdb
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Project23_InheritanceSamples\obj\Debug\net8.0\Project23_InheritanceSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Project23_InheritanceSamples\obj\Debug\net8.0\Project23_InheritanceSamples.AssemblyInfoInputs.cache
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Project23_InheritanceSamples\obj\Debug\net8.0\Project23_InheritanceSamples.AssemblyInfo.cs
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Project23_InheritanceSamples\obj\Debug\net8.0\Project23_InheritanceSamples.csproj.CoreCompileInputs.cache
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Project23_InheritanceSamples\obj\Debug\net8.0\Project23_InheritanceSamples.sourcelink.json
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Project23_InheritanceSamples\obj\Debug\net8.0\Project23_InheritanceSamples.dll
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Project23_InheritanceSamples\obj\Debug\net8.0\refint\Project23_InheritanceSamples.dll
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Project23_InheritanceSamples\obj\Debug\net8.0\Project23_InheritanceSamples.pdb
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Project23_InheritanceSamples\obj\Debug\net8.0\Project23_InheritanceSamples.genruntimeconfig.cache
+C:\Users\ciesi\Documents\GitHub\Dersler\Week06\Project20_OOP\Project23_InheritanceSamples\obj\Debug\net8.0\ref\Project23_InheritanceSamples.dll
