@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- repodan güncelle bu sayfayı eksik ve hatalar var
+repodan güncelle bu sayfayı eksik ve hatalar var
+repodan güncelle bu sayfayı eksik ve hatalar var
+repodan güncelle bu sayfayı eksik ve hatalar var
+repodan güncelle bu sayfayı eksik ve hatalar var
+repodan güncelle bu sayfayı eksik ve hatalar var -->
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM-document Object Model</title>
+</head>
+
+<body style="background-color: black; color: white;">
+
+
+    <form action="">
+        <input type="text" id="metin" value="text box içindeki değer">
+
+        <hr>
+
+        <textarea name="" id="urun-acıklama"></textarea>
+        <hr>
+
+        <input type="checkbox" id="onay" name="">onaylıyorum
+
+        <hr>
+        <select name="" id="kategori">
+            <option value="1">Elektronik</option>
+            <option value="2">Telefon</option>
+            <option value="3">Bilgisayar</option>
+        </select>
+        <hr>
+
+        <input type="radio" name="cinsiyet" id="" value="0" checked> kadın
+        <input type="radio" name="cinsiyet" id="" value="1"> erkek
+
+        <hr>
+
+        <a href="https://www.google.com" title="Anasayfaya Gitmek için tıklayınız">Anasayfa</a>
+        <hr>
+        <input type="button" id="btn-sonuc" value="Sonucları Getir">
+        <input type="button" id="btn-attribute" value="Attribute Getir">
+    </form>
+
+    <hr>
+    <h3>sonuclar</h3>
+    <p id="sonuclar"></p>
+
+    <hr>
+    <div id="hedef-div" style="border: 1px solid ;">bu yazı </div>
+
+    <input type="button" value="Append" id="append">
+    <input type="button" value="prepend" id="prepend">
+    <input type="button" value="After" id="after">
+    <input type="button" value="Before" id="before">
+
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('#btn-sonuc').click(function () {
+                let results = '';
+                results += `input değeri: $${$('metin').val()} `;
+                results += `<br> ürün açıklaması: ${$('onay')}`;
+                results += `<br> ürün durumu: ${$('input#onay:checkbox:checked').val()
+                    == 'on' ? 'onayladınız!' : 'onay vermediniz'}`;
+                results += `<br>Kategori : ${$('#kategori').val()} id li kategoriyi seçtiniz`
+                $('#sonuclar').html(results)
+                results += `<br>Cinsiyet: ${$('input[name=cinsiyet]:checked').val()}`
+            });
+            $('#btn-attribute').click(function () {
+
+                let values = ''
+                values += `linkin href değeri: ${$('form a').attr('href')}`;
+                values += `<br>linkin titler değeri :${$('form a').attr('title')}`;
+
+                $('$sonuclar').val(values);
+
+
+            })
+            $
+
+        })
+
+
+    </script>
+
+
+
+</body>
+
+</html>

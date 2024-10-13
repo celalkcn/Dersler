@@ -1,0 +1,120 @@
+< !DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Kişisel Web Sitesi</title>< !-- <style>
+/* body{
+           /* background-color: green;*/
+
+}
+
+-->< !--
+/* #header{
+            background-color: black;
+        } */
+*/
+/* div{
+            background-color: gray;
+            color: blueviolet;
+        } */
+/* id seçiceksem # klas seçerken . kullanılır*/
+/* .skill{
+            background-color: blue;
+        } */
+-->< !-- </style>--><style>
+
+/* tüm elementleri seçmek için * kullan */
+* {
+    margin: 0px;
+    /dış boşluk/ padding: 0px;
+    /iç boşluk/
+}
+
+body {
+    background-color: bisque;
+    font-family: 'Courier new';
+    color: #555;
+    font-size: 18px;
+
+}
+
+#header {
+
+    text-align: center;
+    padding: 20px;
+    background-color: cadetblue;
+
+
+
+    /* padding-top: 20px;
+            padding-bottom: 20px;
+            padding-left: 20px;
+            padding-right: 20px; */
+
+    /* padding: 20px 40px; bu üst alt 20 sağ sol 40 olacak şekildedir.*/
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+#skills,
+#links,
+#profilePicture,
+#contact {
+    background-color: #FFF;
+    margin: 20px;
+    padding: 20px;
+
+    border-radius: 30px;
+    box-shadow: 5px 5px 15px cadetblue;
+}
+
+#skillContainer {
+    list-style-type: circle;
+}
+
+.skill {
+    margin-bottom: 5px;
+    margin-top: 15px;
+}
+
+#links a {
+    text-decoration: none;
+    color: #0075aa;
+    font-weight: bold;
+}
+
+#links a:hover {
+    color: #0b6491;
+}
+
+#profilePicture img {
+    border-radius: 100%;
+}
+
+#contact form input,
+#contact form textarea {
+    padding: 5px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+/* hover sadece üstüne gidince girdiğin özellikler çalışsın diye kullanılır */
+#contact form input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    /* el şekli vermek için */
+    transition: background-color 0.3s;/gecikme oluşsun diye/
+}
+
+#contact form input[type="submit"]:hover {
+    background-color: #555;
+    /* el şekli vermek için */
+}
+
+</style></head><body>< !---- <br>syntaxı alta geç komutu verir alt satır komutu --><div id="header">< !-- <h1 style="color: red; font-size: 60px;">Merhaba Ben Kemal Kodyazan </h1>--><h1>Merhaba Ben Kemal Kodyazan </h1><p>Yazılım Geliştirici | Teknoloji Aşığı | Spor Tutkunu</p></div>< !--Yetenekler bölümü-->< !--ul kısmı liste vericez demek ve her madde için li,
+yazıcaz div bir alan oluşturmak için --><div id="skills"><h2>--Yetenekler</h2>< !-- ul>li*6 --><ul id="skillsContainer"><li class="skill">HTML</li><li class="skill">CSS</li><li class="skill">JavaScript</li><li class="skill">React</li><li class="skill">AspNetCore MVC</li><li class="skill">AspNetCore API</li></ul></div>< !-- Bağlantılar target _blank linki başka sayfada açtırır yazmazsan aynı sayfa o linke gider --><div id="links"><h2>Benimle Bağlantı Kurun !</h2><div><a href="https://www.github.com" target="_blank">Github</a></div><div><a href="https://www.linkedin.com" target="_blank">LinkedIn</a></div></div>< !--Görsel Bölümü--><div id="profilePicture"><h2>Profil Fotoğrafı</h2>< !-- <img src="https://placehold.co/200" alt="">--><img src="https://picsum.photos/id/1/200/200" alt=""></div>< !-- İletişim Bölümü -->< !-- div#contact #contact --><div id="contact"><h2>Benimle İletişime Geçin</h2><form action=""><div><label for="">Ad Soyad:</label><input type="text" /></div><div><label for="">Email:</label><input type="email"></div><div><label for="">Mesaj:</label><textarea cols="30" rows="" 20></textarea></div>< !-- formun içindeki bilgilerin kullanıcıya gönderilmesine submit denir --><div><input type="submit" value="Mesaj gönder"></div></form></div></body></html>

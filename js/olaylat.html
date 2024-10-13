@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Olaylar</title>
+</head>
+
+<body>
+    <h1>Events</h1>
+    <div>
+        <Button onclick="changeColor('red','white');">Kırmızı/Beyaz</Button>
+    </div>
+    <div>
+        <button onmouseover="changeColor('black','yellow')">Siyah/Sarı</button>
+    </div>
+    <div>
+        <button onmouseout="changeColor('blue','yellow')">Lacivert/Sarı</button>
+    </div>
+    <div>
+        <button>Mor/Beyaz</button>
+    </div>
+    <br>
+    <br>
+    <form name="gender" action="">
+        <input type="radio" name="genderRadio" checked> Kadın
+        <input type="radio" name="genderRadio"> Erkek
+        <div>
+            <input type="button" value="Seçim Yap" onclick="showStatus()">
+        </div>
+    </form>
+
+    <form action="">
+        <div>
+            <label for="">Ad:</label>
+            <input type="text" onfocus="this.placeholder='adınızı giriniz'" onblur="this.placeholder=''">
+
+        </div>
+        <div>
+            <label for="">Soyad:</label>
+            <input type="text" onfocus="this.placeholder='soyadınızı giriniz'" onblur="this.placeholder=''">
+        </div>
+    </form>
+
+    <form action="">
+        <select onchange="go(this)">
+            <option value="#">Bir arama motoru seçiniz!</option>
+            <option value="https://www.Google.com">Google</option>
+            <option value="https://www.Yandex.com">Yandex</option>
+            <option value="https://www.Bing.com">Bing</option>
+            <option value="https://www.Yahoo.com">Yahoo</option>
+        </select>
+    </form>
+    <div id="content">
+        <h1 id="title-about"></h1>
+        <p id="about">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum minima architecto eveniet
+            molestiae nostrum pariatur, optio explicabo amet est cumque, eos itaque eum nulla. Quo nobis eligendi
+            voluptatum quibusdam in facilis saepe eius provident qui quisquam odit tempora dolorum suscipit, nemo
+            voluptate sunt ratione vero totam? Illum, corrupti dolor assumenda eius, ducimus repellendus, quod magni
+            obcaecati neque debitis ipsam animi dolorem distinctio ipsum vel repudiandae. Pariatur placeat voluptatibus
+            facere amet a, fugit aperiam excepturi numquam nesciunt architecto eos veritatis minima, ad laboriosam
+            quisquam, iusto non ullam assumenda maiores corporis </p>
+    </div>
+
+
+
+    <script>
+        const about = document.getElementById('about');
+        about.addEventListener('click', function () {
+            location.href = 'https://www.acunmedyaakademi.com'
+
+
+        });
+        document.getElementById('title-about').addEventListener('click', function () {
+            if (about.style.display == 'none') {
+                about.style.display = 'block';
+
+            } else {
+                about.style.display = 'none'
+            }
+
+        })
+
+
+        console.log(about);
+
+
+        function changeColor(gb, fg) {
+            document.bgColor = gb;
+            document.fgColor = fg;
+        }
+        function showStatus() {
+            let message = '';
+            if (document.gender.genderRadio[0].checked) {
+                message = 'Cinsiyet Kadın';
+            } else {
+                message = 'Cinsiyet Erkek';
+            }
+            console.log(message);
+
+
+        }
+        function go(element) {
+            const selectedOption = element.selectedIndex;
+            const address = element.options[selectedOption].value;
+            console.log(element.options[selectedOption].value);
+            // location.href=address;
+            //window.open(address);
+            if (confirm('sitemizden ayrılıyorsunuz emin misiniz')) {
+                location.href = address;
+            }
+        }
+
+    </script>
+</body>
+
+</html>

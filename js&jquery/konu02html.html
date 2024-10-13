@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML</title>
+</head>
+
+<body>
+    <h1>Html İşlemleri </h1>
+    <p id="degistir-js" style="border: 1px solid red;"></p>
+    <p id="degistir-jq" style="border: 1px solid red;"></p>
+
+
+    <p id="icerik-al-js">Java script iel içerik al</p>
+    <p id="icerik-al-js">JQuery iel içerik al</p>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js ">  </script>
+    <script>
+        $(document).ready(function () {
+            const pJs1 = document.getElementById('degistir-js');
+            // pJs1.innerText='Javascript ile metin eklendi!';
+            pJs1.innerHTML = '<div style="padding:20px;">Javascript ile Html eklendi!</div>'
+
+            const pJq1 = $('#degistir-jq');
+            // pJq1.text('Bu da jQuery ile değiştirildi');
+            pJq1.html = '<div style="padding:20px;">jquery ile Html eklendi!</div>'
+            const icerik1 = document.querySelector('#icerik-al-js')
+            alert(icerik1.innerHTML);
+
+            const icerik2 = $('#içerik-al-jq')
+            alert(icerik2.text());
+
+        }) 
+    </script>
+</body>
+
+</html>
