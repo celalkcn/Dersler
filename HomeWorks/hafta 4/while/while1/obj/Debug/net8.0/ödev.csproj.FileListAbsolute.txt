@@ -1,0 +1,15 @@
+c:\Users\ciesi\Documents\GitHub\Dersler\HomeWorks\hafta4\while\while1\bin\Debug\net8.0\ödev.exe
+c:\Users\ciesi\Documents\GitHub\Dersler\HomeWorks\hafta4\while\while1\bin\Debug\net8.0\ödev.deps.json
+c:\Users\ciesi\Documents\GitHub\Dersler\HomeWorks\hafta4\while\while1\bin\Debug\net8.0\ödev.runtimeconfig.json
+c:\Users\ciesi\Documents\GitHub\Dersler\HomeWorks\hafta4\while\while1\bin\Debug\net8.0\ödev.dll
+c:\Users\ciesi\Documents\GitHub\Dersler\HomeWorks\hafta4\while\while1\bin\Debug\net8.0\ödev.pdb
+c:\Users\ciesi\Documents\GitHub\Dersler\HomeWorks\hafta4\while\while1\obj\Debug\net8.0\ödev.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ciesi\Documents\GitHub\Dersler\HomeWorks\hafta4\while\while1\obj\Debug\net8.0\ödev.AssemblyInfoInputs.cache
+c:\Users\ciesi\Documents\GitHub\Dersler\HomeWorks\hafta4\while\while1\obj\Debug\net8.0\ödev.AssemblyInfo.cs
+c:\Users\ciesi\Documents\GitHub\Dersler\HomeWorks\hafta4\while\while1\obj\Debug\net8.0\ödev.csproj.CoreCompileInputs.cache
+c:\Users\ciesi\Documents\GitHub\Dersler\HomeWorks\hafta4\while\while1\obj\Debug\net8.0\ödev.sourcelink.json
+c:\Users\ciesi\Documents\GitHub\Dersler\HomeWorks\hafta4\while\while1\obj\Debug\net8.0\ödev.dll
+c:\Users\ciesi\Documents\GitHub\Dersler\HomeWorks\hafta4\while\while1\obj\Debug\net8.0\refint\ödev.dll
+c:\Users\ciesi\Documents\GitHub\Dersler\HomeWorks\hafta4\while\while1\obj\Debug\net8.0\ödev.pdb
+c:\Users\ciesi\Documents\GitHub\Dersler\HomeWorks\hafta4\while\while1\obj\Debug\net8.0\ödev.genruntimeconfig.cache
+c:\Users\ciesi\Documents\GitHub\Dersler\HomeWorks\hafta4\while\while1\obj\Debug\net8.0\ref\ödev.dll

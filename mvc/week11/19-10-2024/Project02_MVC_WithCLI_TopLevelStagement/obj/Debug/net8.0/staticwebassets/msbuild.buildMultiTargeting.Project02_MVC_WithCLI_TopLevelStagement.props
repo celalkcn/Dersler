@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Project02_MVC_WithCLI_TopLevelStagement.props" />
+</Project>

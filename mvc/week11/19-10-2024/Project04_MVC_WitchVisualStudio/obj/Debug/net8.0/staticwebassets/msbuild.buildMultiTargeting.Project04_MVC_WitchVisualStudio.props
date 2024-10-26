@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Project04_MVC_WitchVisualStudio.props" />
+</Project>

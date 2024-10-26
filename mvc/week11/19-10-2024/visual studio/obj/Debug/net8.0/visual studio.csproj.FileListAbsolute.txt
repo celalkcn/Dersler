@@ -1,0 +1,31 @@
+C:\Users\ciesi\Documents\GitHub\Dersler\mvc\week11\19-10-2024\visual studio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ciesi\Documents\GitHub\Dersler\mvc\week11\19-10-2024\visual studio\bin\Debug\net8.0\appsettings.json
+C:\Users\ciesi\Documents\GitHub\Dersler\mvc\week11\19-10-2024\visual studio\bin\Debug\net8.0\visual studio.staticwebassets.runtime.json
+C:\Users\ciesi\Documents\GitHub\Dersler\mvc\week11\19-10-2024\visual studio\bin\Debug\net8.0\visual studio.exe
+C:\Users\ciesi\Documents\GitHub\Dersler\mvc\week11\19-10-2024\visual studio\bin\Debug\net8.0\visual studio.deps.json
+C:\Users\ciesi\Documents\GitHub\Dersler\mvc\week11\19-10-2024\visual studio\bin\Debug\net8.0\visual studio.runtimeconfig.json
+C:\Users\ciesi\Documents\GitHub\Dersler\mvc\week11\19-10-2024\visual studio\bin\Debug\net8.0\visual studio.dll
+C:\Users\ciesi\Documents\GitHub\Dersler\mvc\week11\19-10-2024\visual studio\bin\Debug\net8.0\visual studio.pdb
+C:\Users\ciesi\Documents\GitHub\Dersler\mvc\week11\19-10-2024\visual studio\obj\Debug\net8.0\visual studio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ciesi\Documents\GitHub\Dersler\mvc\week11\19-10-2024\visual studio\obj\Debug\net8.0\visual studio.AssemblyInfoInputs.cache
+C:\Users\ciesi\Documents\GitHub\Dersler\mvc\week11\19-10-2024\visual studio\obj\Debug\net8.0\visual studio.AssemblyInfo.cs
+C:\Users\ciesi\Documents\GitHub\Dersler\mvc\week11\19-10-2024\visual studio\obj\Debug\net8.0\visual studio.csproj.CoreCompileInputs.cache
+C:\Users\ciesi\Documents\GitHub\Dersler\mvc\week11\19-10-2024\visual studio\obj\Debug\net8.0\visual studio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ciesi\Documents\GitHub\Dersler\mvc\week11\19-10-2024\visual studio\obj\Debug\net8.0\visual studio.RazorAssemblyInfo.cache
+C:\Users\ciesi\Documents\GitHub\Dersler\mvc\week11\19-10-2024\visual studio\obj\Debug\net8.0\visual studio.RazorAssemblyInfo.cs
+C:\Users\ciesi\Documents\GitHub\Dersler\mvc\week11\19-10-2024\visual studio\obj\Debug\net8.0\visual studio.sourcelink.json
+C:\Users\ciesi\Documents\GitHub\Dersler\mvc\week11\19-10-2024\visual studio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ciesi\Documents\GitHub\Dersler\mvc\week11\19-10-2024\visual studio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ciesi\Documents\GitHub\Dersler\mvc\week11\19-10-2024\visual studio\obj\Debug\net8.0\staticwebassets\msbuild.visual studio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ciesi\Documents\GitHub\Dersler\mvc\week11\19-10-2024\visual studio\obj\Debug\net8.0\staticwebassets\msbuild.build.visual studio.props
+C:\Users\ciesi\Documents\GitHub\Dersler\mvc\week11\19-10-2024\visual studio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.visual studio.props
+C:\Users\ciesi\Documents\GitHub\Dersler\mvc\week11\19-10-2024\visual studio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.visual studio.props
+C:\Users\ciesi\Documents\GitHub\Dersler\mvc\week11\19-10-2024\visual studio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ciesi\Documents\GitHub\Dersler\mvc\week11\19-10-2024\visual studio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ciesi\Documents\GitHub\Dersler\mvc\week11\19-10-2024\visual studio\obj\Debug\net8.0\scopedcss\bundle\visual studio.styles.css
+C:\Users\ciesi\Documents\GitHub\Dersler\mvc\week11\19-10-2024\visual studio\obj\Debug\net8.0\scopedcss\projectbundle\visual studio.bundle.scp.css
+C:\Users\ciesi\Documents\GitHub\Dersler\mvc\week11\19-10-2024\visual studio\obj\Debug\net8.0\visual studio.dll
+C:\Users\ciesi\Documents\GitHub\Dersler\mvc\week11\19-10-2024\visual studio\obj\Debug\net8.0\refint\visual studio.dll
+C:\Users\ciesi\Documents\GitHub\Dersler\mvc\week11\19-10-2024\visual studio\obj\Debug\net8.0\visual studio.pdb
+C:\Users\ciesi\Documents\GitHub\Dersler\mvc\week11\19-10-2024\visual studio\obj\Debug\net8.0\visual studio.genruntimeconfig.cache
+C:\Users\ciesi\Documents\GitHub\Dersler\mvc\week11\19-10-2024\visual studio\obj\Debug\net8.0\ref\visual studio.dll

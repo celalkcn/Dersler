@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\visual studio.props" />
+</Project>
