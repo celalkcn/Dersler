@@ -1,0 +1,134 @@
+/* Temel Seçiciler */
+p {
+    color: blue;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+#header {
+    font-size: 24px;
+}
+
+/* Birleşik Seçiciler */
+div.container {
+    padding: 20px;
+}
+
+p#special {
+    font-weight: bold;
+}
+
+/* Pseudo-class */
+a:hover {
+    color: red;
+}
+
+input:focus {
+    border: 2px solid blue;
+}
+
+button:active {
+    background-color: gray;
+}
+
+/* Box Model */
+.box {
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+/* Display Özellikleri */
+div {
+    display: block;
+}
+
+span {
+    display: inline;
+}
+
+.item {
+    display: inline-block;
+}
+
+.hidden {
+    display: none;
+}
+
+/* Positioning */
+.relative {
+    position: relative;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.fixed {
+    position: fixed;
+}
+
+.sticky {
+    position: sticky;
+}
+
+/* Renkler */
+body {
+    background-color: #f0f0f0;
+}
+
+.text {
+    color: rgb(255, 87, 51);
+}
+
+/* Arka Plan Özellikleri */
+.background {
+    background-image: url('example.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/* Font Özellikleri */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.5;
+}
+
+/* Metin Stilleri */
+p {
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    letter-spacing: 1px;
+}
+
+/* Kenarlık Özellikleri */
+.border {
+    border: 2px solid red;
+    border-radius: 5px;
+}
+
+/* Kutunun Kenarları */
+.box {
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    body {
+        background-color: lightblue;
+    }
+}
+
+/* Viewport Units */
+.viewport {
+    width: 50vw;
+    height: 50vh;
+}

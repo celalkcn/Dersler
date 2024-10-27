@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Project07_MVCTemelleri")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a5ad98c64af8acbd49458137553ba91f683a774")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43fe0387713517f2b318c46fad16f63b2dae042e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Project07_MVCTemelleri")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Project07_MVCTemelleri")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
