@@ -1,0 +1,44 @@
+@model AboutModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1
+    style=" justify-content: center;  display: flex;  padding: 5px; font-size: 35px;">
+    HAKKIMDA</h1>
+<div class="container">
+    <div class="row justify-content-center ">
+       
+            <div class="col-md-4">
+                <div class="card mb-4" style="width: 32rem;"> 
+                    <img src="@Model.Resim" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">@Model.AdSoyad</h5>
+                        <p class="card-text"></p>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item">@Model.Aciklama</li>
+                    </ul>
+                   
+                    <ul class="list-group list-group-flush">
+                        
+                        @foreach(var item in Model.Staj)
+                        {
+                        <li class="list-group-item">@item.StajName</li>
+                        }
+                       
+                        
+                    </ul>
+                    <div class="card-body">
+                        @foreach(var item in Model.Links)
+                        {
+                        <a href="@item.LinkUrl" class="card-link">@item.LinkName</a>
+                        }
+                      
+                       
+                    </div>
+                </div>
+            </div>
+    
+    </div>
+</div>
