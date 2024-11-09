@@ -1,0 +1,46 @@
+@model IEnumerable<Project>?
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="container-fluid pt-4 px-4">
+    <div class="col-12">
+        <div class="bg-light rounded h-100 p-4">
+            <h6 class="mb-4">Projelerim</h6>
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col">Id</th>
+                            <th scope="col">Resim</th>
+                            <th scope="col">Proje</th>
+                            <th scope="col">Kategori</th>
+                            <th scope="col">Aktif</th>
+                            <th scope="col">İşlemler</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var p in Model)
+                        {
+                            <tr>
+                                <td scope="row">@p.Id</td>
+                                <td><img src="@p.ImageUrl" alt="" width="60"></td>
+                                <td>@p.Name</td>
+                                <td>@p.CategoryId</td>
+                                <td>@p.IsActive</td>
+                                <td>
+                                    <a asp-asp-area="Admin" asp-controller="Project" asp-action="Edit" asp-route-id="@p.Id"
+                                        class="btn-warning btn-sm">Düzenle</a>
+                                    <a asp-asp-area="Admin" asp-controller="Project" asp-action="Delete"
+                                        asp-route-id="@p.Id" class="btn-danger btn-sm">Sil</a>
+
+                                </td>
+
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
