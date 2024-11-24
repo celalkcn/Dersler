@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LearnifyStockApp.props" />
+</Project>
