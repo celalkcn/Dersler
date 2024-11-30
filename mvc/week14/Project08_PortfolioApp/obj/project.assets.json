@@ -505,27 +505,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ciesi\\.nuget\\packages\\": {}
+    "C:\\Users\\celalkocan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\mvc\\week14\\Project08_PortfolioApp\\Project08_PortfolioApp.csproj",
+      "projectUniqueName": "C:\\Users\\celalkocan\\Documents\\GitHub\\Dersler\\mvc\\week14\\Project08_PortfolioApp\\Project08_PortfolioApp.csproj",
       "projectName": "Project08_PortfolioApp",
-      "projectPath": "C:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\mvc\\week14\\Project08_PortfolioApp\\Project08_PortfolioApp.csproj",
-      "packagesPath": "C:\\Users\\ciesi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ciesi\\Documents\\GitHub\\Dersler\\mvc\\week14\\Project08_PortfolioApp\\obj\\",
+      "projectPath": "C:\\Users\\celalkocan\\Documents\\GitHub\\Dersler\\mvc\\week14\\Project08_PortfolioApp\\Project08_PortfolioApp.csproj",
+      "packagesPath": "C:\\Users\\celalkocan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\celalkocan\\Documents\\GitHub\\Dersler\\mvc\\week14\\Project08_PortfolioApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ciesi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\celalkocan\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -577,7 +574,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
