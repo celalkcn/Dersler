@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\90505\\Documents\\GitHub\\Dersler\\mvc\\mvc proje tekrar\\LearnifyStockApp\\LearnifyStockApp.csproj": {}
+    "C:\\Users\\celalkocan\\Documents\\GitHub\\Dersler\\mvc\\mvc proje tekrar\\LearnifyStockApp\\LearnifyStockApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\90505\\Documents\\GitHub\\Dersler\\mvc\\mvc proje tekrar\\LearnifyStockApp\\LearnifyStockApp.csproj": {
+    "C:\\Users\\celalkocan\\Documents\\GitHub\\Dersler\\mvc\\mvc proje tekrar\\LearnifyStockApp\\LearnifyStockApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\90505\\Documents\\GitHub\\Dersler\\mvc\\mvc proje tekrar\\LearnifyStockApp\\LearnifyStockApp.csproj",
+        "projectUniqueName": "C:\\Users\\celalkocan\\Documents\\GitHub\\Dersler\\mvc\\mvc proje tekrar\\LearnifyStockApp\\LearnifyStockApp.csproj",
         "projectName": "LearnifyStockApp",
-        "projectPath": "C:\\Users\\90505\\Documents\\GitHub\\Dersler\\mvc\\mvc proje tekrar\\LearnifyStockApp\\LearnifyStockApp.csproj",
-        "packagesPath": "C:\\Users\\90505\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\90505\\Documents\\GitHub\\Dersler\\mvc\\mvc proje tekrar\\LearnifyStockApp\\obj\\",
+        "projectPath": "C:\\Users\\celalkocan\\Documents\\GitHub\\Dersler\\mvc\\mvc proje tekrar\\LearnifyStockApp\\LearnifyStockApp.csproj",
+        "packagesPath": "C:\\Users\\celalkocan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\celalkocan\\Documents\\GitHub\\Dersler\\mvc\\mvc proje tekrar\\LearnifyStockApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\90505\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\celalkocan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -36,9 +36,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -72,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
